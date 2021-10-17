@@ -4,7 +4,7 @@
     <data>
         <variable
             name="property"
-            type="com.example.android.marsrealestate.network.MarsProperty"/>
+            type="com.example.android.marsrealestate.network.MarsProperty" />
     </data>
     <ImageView
         android:id="@+id/mars_image"
